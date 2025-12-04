@@ -30,3 +30,14 @@ class PrimeOrNot {
         }
     }
 }
+
+/*
+enter a nunber
+7
+7 is a prime
+
+enter a nunber
+4
+4 is not a prime
+
+*/

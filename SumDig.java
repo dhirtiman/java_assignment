@@ -20,3 +20,9 @@ class SumDig {
        
     }
 }
+
+/*
+enter a nunber
+123
+Sum of digits: 6
+*/

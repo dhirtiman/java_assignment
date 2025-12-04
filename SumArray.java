@@ -15,3 +15,9 @@ class SumArray {
         System.out.println("Array: " + Arrays.toString(arr) + "\nSum: " + sum);
     }
 }
+
+/*
+ * Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+ * Sum: 55
+ * 
+ */

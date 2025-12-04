@@ -29,3 +29,12 @@ class ArmStrong {
 
     }
 }
+
+/*
+Enter the number: 153
+153 is an Armstrong number
+
+Enter the number: 151
+151 is not an Armstrong number
+
+*/

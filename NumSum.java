@@ -9,9 +9,16 @@ class NumSum {
         for (int i = 101; i < 200; i++) {
             if (i % 7 == 0) {
                 System.out.print(i + " ");
-                sum+=i;
+                sum += i;
             }
         }
-        System.out.println("\nSum: "+sum);
+        System.out.println("\nSum: " + sum);
     }
 }
+
+/*
+ * Numbers between 100 and 200 which are divisible from 7:
+ * 105 112 119 126 133 140 147 154 161 168 175 182 189 196
+ * Sum: 2107
+ * 
+ */

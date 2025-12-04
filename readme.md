@@ -1,7 +1,5 @@
 ## OOP in Java – Assignment 1
 
-### Questions and Corresponding Programs
-
 1. **Write a java program to check whether a given number is prime or not.**  
    → `PrimeOrNot.java` – [Open file](PrimeOrNot.java)
 
@@ -27,7 +25,9 @@
    → `CountEO.java` – [Open file](CountEO.java)
 
 9. **Write a java program to add two matrices using nested loop.**
-   → `CountEO.java` – [Open file](CountEO.java)
+   
+   → `MatrixAdd.java` – [Open file](MatrixAdd.java)
 
 10. **10. Write a java program to print different types of Patterns.**
-   → `CountEO.java` – [Open file](CountEO.java)
+   
+      → `Patterns.java` – [Open file](Patterns.java)

@@ -16,3 +16,10 @@ class Fact {
 
     }
 }
+
+/*
+ * Enter the number:
+ * 5
+ * Factorial of 5: 120
+ * 
+ */
